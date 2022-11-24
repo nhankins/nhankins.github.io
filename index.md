@@ -6,7 +6,7 @@ layout: hello-default
 # these variables are required -------------------------------
 banner_title: Nick Hankins
 banner_subtitle: some information about me
-background_image: /images/background.jpeg
+background_image: /images/me.JPG
 
 
 # all of the following variables are optional -----------------
