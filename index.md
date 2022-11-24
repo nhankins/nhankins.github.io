@@ -7,6 +7,7 @@ layout: hello-default
 banner_title: Nick Hankins
 banner_subtitle: some information about me
 background_image: /images/background.jpeg
+![me](/images/me.jpg)
 
 # all of the following variables are optional -----------------
 # page_url: /hello # only include this variable if you aren't building the page to your primary domain 
