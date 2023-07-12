@@ -44,7 +44,7 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-I'm a 25-year-old linguist from Flemington, NJ. I completed my master of science degree in Computational Linguistics at Montclair State University in May 2023. At Montclair, I was a Graduate Research and Teaching Assistant where I helped faculty as a TA and in implemented language data annotations for research projects.
+I'm a 26-year-old linguist from Flemington, NJ. I completed my master of science degree in Computational Linguistics at Montclair State University in May 2023. At Montclair, I was a Graduate Research and Teaching Assistant where I helped faculty as a TA and in implemented language data annotations for research projects.
 
  After completing my BA in Linguistics at the University of New Hampshire in 2019, with a minor in TESOL, I decided to accept a position to teach English abroad at a high school in France for a school year.  Upon coming back, I decided to continue pursuing my passion for languages, while concurrently pursuing my interest in technology and computer science.
 
