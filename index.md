@@ -33,7 +33,7 @@ linkedin: nicholasjhankins # the part after ("https://www.linkedin.com/in/...")
 portfolio: project & work experience # the heading for your portfolio and title of your YAML file
 portfolio_description: 
 
-Current Employment- Generative AI/LLM & Language Specialist at Innodata, Inc.
+Current Employment- Generative AI/LLM and Language Specialist at Innodata, Inc.
 
 Side Projects- RAG Fine-Tuned Language Learning LLM, Figurative Language Classification, Legal Data Summarization, Jeopardy LLM, among others. Please feel free to follow my Github link at the bottom of this webpage for my growing portfolio of projects.
 
