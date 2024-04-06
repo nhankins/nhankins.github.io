@@ -32,7 +32,7 @@ linkedin: nicholasjhankins # the part after ("https://www.linkedin.com/in/...")
 
 portfolio: project and work experience # the heading for your portfolio and title of your YAML file
 portfolio_description: Current Employment- Generative AI/LLM and Language Specialist at Innodata, Inc.
-
+:
 Side Projects- RAG Fine-Tuned Language Learning LLM, Figurative Language Classification, Legal Data Summarization, Jeopardy LLM, among others. Please feel free to follow my Github link at the bottom of this webpage for my growing portfolio of projects.
 
 Master's capstone project- I looked for specific influential linguistic features by analyzing the cross-lingual transfer of contextualized word embeddings with mBERT. The code and paper was presented, completed, and uploaded on my Github at the end of my last semester of graduate school in May 2023. 
