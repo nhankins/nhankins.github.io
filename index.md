@@ -47,7 +47,7 @@ cta_description: questions, comments, or concerns? please don't hesitate to reac
 cta_button: mailto:nicholasjhankins@gmail.com # a link to an external website or to media
 cta_button_label: contact # the label on the button
 
----:
+---
 [//]: # (write a bit about yourself here)
 
 I'm a Computational Linguist from New Jersey, USA. I completed my MS in Computational Linguistics at Montclair State University in May 2023 and currently work as a Language Specialist for Generative AI/LLM projects. I've been researching and conducting language model experiments since around the advent of transformer architecture in 2017, and continue to learn new aspects every day.
