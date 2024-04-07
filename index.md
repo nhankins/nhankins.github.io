@@ -52,7 +52,7 @@ cta_button_label: contact # the label on the button
 
 I'm a Computational Linguist from New Jersey, USA. I completed my MS in Computational Linguistics at Montclair State University in May 2023 and currently work as a Language Specialist for Generative AI/LLM projects. I've been researching and conducting language model experiments since around the advent of transformer architecture in 2017, and continue to learn new aspects every day.
 
-After completing my BA in Linguistics at the University of New Hampshire in 2019, with a minor in TESOL, I decided to accept a position to teach English abroad at a high school in France for a school year.  Upon returning to the U.S., I decided to continue pursuing my passion for languages, while concurrently pursuing my interest in computer science with linguistic applications.
+After completing my BA in Linguistics with a minor in TESOL at the University of New Hampshire in 2019, I decided to accept a position to teach English abroad at a high school in France for a school year.  Upon returning to the U.S., I decided to continue pursuing my passion for languages, while concurrently pursuing my interest in computer science with linguistic applications.
 
 I've also found learning languages to be a rewarding subject for lots of reasons. I've seen firsthand how languages can be a uniting factor in facilitating conversations between people. It can be a bridge to understanding new cultures and I intend to dedicate my career to helping to uncover ways to bring people together in mutual respect and appreciation.
 
